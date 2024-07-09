@@ -1,0 +1,7 @@
+
+-v a test_files/1.txt
+-c a test_files/1.txt
+-l a test_files/1.txt
+-n a test_files/1.txt
+-i a test_files/1.txt
+-e a test_files/1.txt
